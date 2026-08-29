@@ -1,0 +1,8 @@
+{
+  "name": "Dual Audio Splitter",
+  "description": "Bluetooth device manager with split stereo channel routing for media audio (left speaker) and phone call audio (right speaker), with quick toggle for unified media playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
