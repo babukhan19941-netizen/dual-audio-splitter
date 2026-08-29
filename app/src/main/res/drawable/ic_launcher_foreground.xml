@@ -1,0 +1,71 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Headphone Arch -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 33,56 C 33,36 42,28 54,28 C 66,28 75,36 75,56" />
+
+    <!-- Left Ear Cup (Media - Cyan) -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M 28,48 C 28,45 32,45 34,45 L 35,45 C 37,45 38,47 38,50 L 38,66 C 38,69 37,71 35,71 L 34,71 C 32,71 28,71 28,68 Z" />
+
+    <!-- Left Soundwaves (Media cyan) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#22D3EE"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 24,51 C 21,55 21,61 24,65" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#67E8F9"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 20,47 C 16,53 16,63 20,69" />
+
+    <!-- Right Ear Cup (Call - Amber/Orange) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 80,48 C 80,45 76,45 74,45 L 73,45 C 71,45 70,47 70,50 L 70,66 C 70,69 71,71 73,71 L 74,71 C 76,71 80,71 80,68 Z" />
+
+    <!-- Right Soundwaves (Call amber) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 84,51 C 87,55 87,61 84,65" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FDE68A"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 88,47 C 92,53 92,63 88,69" />
+
+    <!-- Center Bluetooth Symbol & Audio Split indicator -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 50,47 L 58,54 L 54,58 L 54,42 L 58,46 L 50,53" />
+
+    <!-- Left Note symbol inside -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 43,68 A 2,2 0 1,1 41,70 L 41,64 L 45,64 L 45,67 Z" />
+
+    <!-- Right Phone symbol inside -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 64,65 C 64,69 66,71 67,71 C 67.5,71 68,70.5 68.5,69.5 L 67.5,67.5 L 66.5,68 C 65.8,67 65,66.2 64,65.5 L 64.5,64.5 L 62.5,63.5 C 61.5,64 61,64.5 61,65 C 61,66 63,68 64,65 Z" />
+</vector>
